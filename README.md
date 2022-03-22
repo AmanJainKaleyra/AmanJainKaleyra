@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Aman Jain
+- 👀 I’m interested in Building system that will make impact 
+- 🌱 I’m currently learning GoLang,AWS Architect, Oracle Cloud, Serverless,
+- 💞️ I’m looking to collaborate on Team management,Builiding high scalable system
+- 📫 Reach out to me on aman.jain@kaleyra.com
